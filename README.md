@@ -90,7 +90,7 @@ El tipo de motor del carro es: Gasolina
 ```
 
 ## 📝 Autor
-**Estudiante** Deyton Riascos Ortiz
+Deyton Riascos Ortiz
 
 ## 🔗 Referencias
 - [Python Classes and Objects - W3Schools](https://www.w3schools.com/python/python_classes.asp)
