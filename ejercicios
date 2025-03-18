@@ -1,0 +1,27 @@
+Ejercicios
+
+Ejercicio 1
+Implemente una clase que contenga las características de un gato o un perro.
+En el programa principal:
+- Cree tantos objetos como mascotas tenga.
+- Muestre algunas de las características de su mascota.
+
+
+Ejercicio 2
+Implementar la clase Rectangulo con las siguientes características:
+- Atributos: base, altura (ambas dimensiones en centímetros)
+- Métodos: motrar_todo, calcular_area, calcular_perimetro
+En el programa principal:
+- Crear tres objetos de la clase Rectangulo con diferentes características.
+- Mostrar las características de cada uno.
+- Mostrar el área y el perímetro de cada rectángulo
+
+
+Ejercicio 3
+Implementar una clase que permita crear una figura geométrica tridimensional (por ejemplo, Cubo) queesté hecho de algún material y que tenga las siguientes características:
+- Atributos: dimensiones necesarias para describir el objeto tridimensional, material y densidad delmaterial.
+- Métodos: motrar_todo, calcular_area, calcular_volumen, calcular_peso (pueden adicionar otrosmétodos si lo consideran necesario).
+En el programa principal:
+- Crear dos objetos de la clase implementada con diferentes características.
+- Mostrar las características de cada uno.
+- Mostrar el área, el volumen, el peso y lo que consideren necesario.
